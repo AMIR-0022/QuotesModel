@@ -1,6 +1,6 @@
 # Quotes App (View Model)
 
-Using View Model Concept to show quotes. The Quote List is loadded from json file in the asset folder.
+Using View Model Concept to show quotes. The Quote List is loaded from json file in the asset folder.
 
 View Model is a lifecycle aware class, designed to store and manage UI related data. It a main component in MVVM architecture. When a view model is created, it is stored inside activity or fragment manager.
 
